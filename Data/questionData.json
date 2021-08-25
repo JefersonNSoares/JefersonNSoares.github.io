@@ -95,6 +95,17 @@
         "Ernest Hemingway",
         "William Faulkner"
       ]
+    }, 
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which American author was also a budding travel writer and wrote of his adventures with his dog Charley?",
+      "correct_answer": "John Steinbeck",
+      "incorrect_answers": [
+        "F. Scott Fitzgerald",
+        "Ernest Hemingway",
+        "William Faulkner"
+      ]
     }
   ]
 }
