@@ -55,12 +55,12 @@
     {
       "type": "multiple",
       "difficulty": "hard",
-      "question": "In the Harry Potter universe, what is Cornelius Fudge&#039;s middle name?",
-      "correct_answer": "Oswald",
+      "question": "Quem descobriu o Brasil?",
+      "correct_answer": "Robson",
       "incorrect_answers": [
-        "James",
-        "Harold",
-        "Christopher"
+        "Pedro",
+        "Tico",
+        "Telonyr"
       ]
     },
     {
