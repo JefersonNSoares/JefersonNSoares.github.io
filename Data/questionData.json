@@ -3,47 +3,43 @@
   "category": "Entertainment: Books",
   "questions": [
     {
-      "type": "multiple",
-      "difficulty": "hard",
       "question": "In the Harry Potter universe, what is Cornelius Fudge&#039;s middle name?",
       "correct_answer": "Oswald",
       "incorrect_answers": [
         "James",
         "Harold",
-        "Christopher"
+        "Christopher",
+        "Oswald"
       ]
     },
     {
-      "type": "multiple",
-      "difficulty": "medium",
       "question": "What was the pen name of novelist, Mary Ann Evans?",
       "correct_answer": "George Eliot",
       "incorrect_answers": [
         "George Orwell",
         "George Bernard Shaw",
-        "George Saunders"
+        "George Saunders",
+        "George Eliot"
       ]
     },
     {
-      "type": "multiple",
-      "difficulty": "hard",
       "question": "The novel &quot;Jane Eyre&quot; was written by what author? ",
-      "correct_answer": "Charlotte Bront&euml;",
+      "correct_answer": "Charlotte Bront&euml",
       "incorrect_answers": [
         "Emily Bront&euml;",
         "Jane Austen",
-        "Louisa May Alcott"
+        "Louisa May Alcott",
+        "Charlotte Bront&euml"
       ]
     },
     {
-      "type": "multiple",
-      "difficulty": "medium",
       "question": "Which American author was also a budding travel writer and wrote of his adventures with his dog Charley?",
       "correct_answer": "John Steinbeck",
       "incorrect_answers": [
         "F. Scott Fitzgerald",
         "Ernest Hemingway",
-        "William Faulkner"
+        "William Faulkner",
+        "John Steinbeck"
       ]
     }
   ]
@@ -53,58 +49,53 @@
   "category": "Testando",
   "questions": [
     {
-      "type": "multiple",
-      "difficulty": "hard",
       "question": "Quem descobriu o Brasil?",
       "correct_answer": "Robson",
       "incorrect_answers": [
         "Pedro",
         "Tico",
-        "Telonyr"
+        "Telonyr",
+        "Robson"
       ]
     },
     {
-      "type": "multiple",
-      "difficulty": "medium",
       "question": "What was the pen name of novelist, Mary Ann Evans?",
       "correct_answer": "George Eliot",
       "incorrect_answers": [
         "George Orwell",
         "George Bernard Shaw",
-        "George Saunders"
+        "George Saunders",
+        "George Eliot"
       ]
     },
     {
-      "type": "multiple",
-      "difficulty": "hard",
       "question": "The novel &quot;Jane Eyre&quot; was written by what author? ",
-      "correct_answer": "Charlotte Bront&euml;",
+      "correct_answer": "Charlotte Bront&euml",
       "incorrect_answers": [
         "Emily Bront&euml;",
         "Jane Austen",
-        "Louisa May Alcott"
+        "Louisa May Alcott",
+        "Charlotte Bront&euml"
       ]
     },
     {
-      "type": "multiple",
-      "difficulty": "medium",
       "question": "Which American author was also a budding travel writer and wrote of his adventures with his dog Charley?",
       "correct_answer": "John Steinbeck",
       "incorrect_answers": [
         "F. Scott Fitzgerald",
         "Ernest Hemingway",
-        "William Faulkner"
+        "William Faulkner",
+        "John Steinbeck"
       ]
     }, 
     {
-      "type": "multiple",
-      "difficulty": "medium",
       "question": "Which American author was also a budding travel writer and wrote of his adventures with his dog Charley?",
       "correct_answer": "John Steinbeck",
       "incorrect_answers": [
         "F. Scott Fitzgerald",
         "Ernest Hemingway",
-        "William Faulkner"
+        "William Faulkner",
+        "John Steinbeck"
       ]
     }
   ]
