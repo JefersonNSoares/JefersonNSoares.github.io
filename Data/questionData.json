@@ -1,45 +1,125 @@
 [{
   "id": 0,
-  "category": "Entertainment: Books",
+  "category": "Conhecimentos Gerais",
   "questions": [
     {
-      "question": "In the Harry Potter universe, what is Cornelius Fudge&#039;s middle name?",
-      "correct_answer": "Oswald",
+      "question": "Normalmente, quantos litros de sangue uma pessoa tem? Em média, quantos são retirados numa doação de sangue?",
+      "correct_answer": "Tem entre 4 a 6 litros. São retirados 450 mililitros",
       "incorrect_answers": [
-        "James",
-        "Harold",
-        "Christopher",
-        "Oswald"
+        "Tem entre 2 a 4 litros. São retirados 450 mililitros",
+        "Tem entre 4 a 6 litros. São retirados 450 mililitros",
+        "Tem 10 litros. São retirados 2 litros",
+        "Tem 7 litros. São retirados 1,5 litros"
       ]
     },
     {
-      "question": "What was the pen name of novelist, Mary Ann Evans?",
-      "correct_answer": "George Eliot",
+      "question": "De quem é a famosa frase “Penso, logo existo”?",
+      "correct_answer": "Descartes",
       "incorrect_answers": [
-        "George Orwell",
-        "George Bernard Shaw",
-        "George Saunders",
-        "George Eliot"
+        "Platão",
+        "Galileu Galilei",
+        "Descartes",
+        "Sócrates"
       ]
     },
     {
-      "question": "The novel &quot;Jane Eyre&quot; was written by what author? ",
-      "correct_answer": "Charlotte Bront&euml",
+      "question": "De onde é a invenção do chuveiro elétrico?",
+      "correct_answer": "Brasil",
       "incorrect_answers": [
-        "Emily Bront&euml;",
-        "Jane Austen",
-        "Louisa May Alcott",
-        "Charlotte Bront&euml"
+        "França",
+        "Inglaterra",
+        "Brasil",
+        "Austrália"
       ]
     },
     {
-      "question": "Which American author was also a budding travel writer and wrote of his adventures with his dog Charley?",
-      "correct_answer": "John Steinbeck",
+      "question": "Quais o menor e o maior país do mundo?",
+      "correct_answer": "Vaticano e Rússia",
       "incorrect_answers": [
-        "F. Scott Fitzgerald",
-        "Ernest Hemingway",
-        "William Faulkner",
-        "John Steinbeck"
+        "Vaticano e Rússia",
+        "Nauru e China",
+        "Mônaco e Canadá",
+        "Malta e Estados Unidos"
+      ]
+    },
+    {
+      "question": "Qual o nome do presidente do Brasil que ficou conhecido como Jango?",
+      "correct_answer": "João Goulart",
+      "incorrect_answers": [
+        "Jânio Quadros",
+        "João Goulart",
+        "Getúlio Vargas",
+        "João Figueiredo"
+      ]
+    },
+    {
+      "question": "Qual o livro mais vendido no mundo a seguir à Bíblia?",
+      "correct_answer": "Vaticano e Rússia",
+      "incorrect_answers": [
+        "O Senhor dos Anéis",
+        "Dom Quixote",
+        "O Pequeno Príncipe",
+        "Ela, a Feiticeira"
+      ]
+    },
+    {
+      "question": "Quantas casas decimais tem o número pi?",
+      "correct_answer": "Infinitas",
+      "incorrect_answers": [
+        "Duas",
+        "Centenas",
+        "Infinitas",
+        "Vinte"
+      ]
+    },
+    {
+      "question": "Quais os países que têm a maior e a menor expectativa de vida do mundo?",
+      "correct_answer": "Japão e Serra Leoa",
+      "incorrect_answers": [
+        "Japão e Serra Leoa",
+        "Austrália e Afeganistão",
+        "Itália e Chade",
+        "Brasil e Congo"
+      ]
+    },
+    {
+      "question": "O que a palavra legend significa em português?",
+      "correct_answer": "Lenda",
+      "incorrect_answers": [
+        "Legenda",
+        "Conto",
+        "História",
+        "Lenda"
+      ]
+    },
+    {
+      "question": "Qual o número mínimo de jogadores numa partida de futebol?",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "8",
+        "10",
+        "9",
+        "7"
+      ]
+    },
+    {
+      "question": "Quais as duas datas que são comemoradas em novembro?",
+      "correct_answer": "Proclamação da República e Dia Nacional da Consciência Negra",
+      "incorrect_answers": [
+        "Independência do Brasil e Dia da Bandeira",
+        "Proclamação da República e Dia Nacional da Consciência Negra",
+        "Dia do Médico e Dia de São Lucas",
+        "Dia de Finados e Dia Nacional do Livro"
+      ]
+    },
+    {
+      "question": "Quem pintou Guernica?",
+      "correct_answer": "Pablo Picasso",
+      "incorrect_answers": [
+        "Paul Cézanne",
+        "Pablo Picasso",
+        "Diego Rivera",
+        "Tarsila do Amaral"
       ]
     }
   ]
