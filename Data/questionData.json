@@ -126,58 +126,313 @@
 },
 {
   "id": 1,
-  "category": "Testando",
+  "category": "Animes Geral",
   "questions": [
     {
-      "question": "Quem descobriu o Brasil?",
-      "correct_answer": "Robson",
+      "question": "Quais os principais ataques de Goku?",
+      "correct_answer": "Kamehameha e Genki Dama",
       "incorrect_answers": [
-        "Pedro",
-        "Tico",
-        "Telonyr",
-        "Robson"
+        "Masenko e Kamehameha",
+        "Kamehameha e Genki Dama",
+        "Genki Dama e Kaioken",
+        "Masenko E Kaioken"
       ]
     },
     {
-      "question": "What was the pen name of novelist, Mary Ann Evans?",
-      "correct_answer": "George Eliot",
+      "question": "Quantos Episódios Tem Dragon Ball Z ?",
+      "correct_answer": "291",
       "incorrect_answers": [
-        "George Orwell",
-        "George Bernard Shaw",
-        "George Saunders",
-        "George Eliot"
+        "319",
+        "158",
+        "291",
+        "287"
       ]
     },
     {
-      "question": "The novel &quot;Jane Eyre&quot; was written by what author? ",
-      "correct_answer": "Charlotte Bront&euml",
+      "question": "Que Idade Tem Gohan Na Saga Boo?",
+      "correct_answer": "18",
       "incorrect_answers": [
-        "Emily Bront&euml;",
-        "Jane Austen",
-        "Louisa May Alcott",
-        "Charlotte Bront&euml"
+        "18",
+        "17",
+        "16",
+        "20"
       ]
     },
     {
-      "question": "Which American author was also a budding travel writer and wrote of his adventures with his dog Charley?",
-      "correct_answer": "John Steinbeck",
+      "question": "Qual personagem que mais morre em Dragon Ball Z?",
+      "correct_answer": "Kuririn",
       "incorrect_answers": [
-        "F. Scott Fitzgerald",
-        "Ernest Hemingway",
-        "William Faulkner",
-        "John Steinbeck"
+        "Goku",
+        "Kuririn",
+        "Vegeta",
+        "Piccolo"
       ]
-    }, 
+    },
     {
-      "question": "Which American author was also a budding travel writer and wrote of his adventures with his dog Charley?",
-      "correct_answer": "John Steinbeck",
+      "question": "Qual o nome do Shen Long de Namek?",
+      "correct_answer": "Porunga",
       "incorrect_answers": [
-        "F. Scott Fitzgerald",
-        "Ernest Hemingway",
-        "William Faulkner",
-        "John Steinbeck"
+        "Porunga",
+        "Dende",
+        "Nail",
+        "Piccolo"
       ]
-    }
+    },
+    {
+      "question": "Qual foi o primeiro mestre de Gohan?",
+      "correct_answer": "Piccolo",
+      "incorrect_answers": [
+        "Goku",
+        "Chi-chi",
+        "Mestre Kame",
+        "Piccolo"
+      ]
+    },
+    {
+      "question": "Quem inventou o Genki dama?",
+      "correct_answer": "Sr. Kaioh",
+      "incorrect_answers": [
+        "Mestre Kame",
+        "Goku",
+        "Cell",
+        "Sr. Kaioh"
+      ]
+    },
+    {
+      "question": "Qual é o nome do pai de Goku?",
+      "correct_answer": "Bardock",
+      "incorrect_answers": [
+        "Bradock",
+        "Bardock",
+        "Brawly",
+        "Kukutu"
+      ]
+    },
+    {
+      "question": "Qual o nome da fusão entre goten e trunks?",
+      "correct_answer": "Gotrenx",
+      "incorrect_answers": [
+        "Trotenx",
+        "Trengo",
+        "Gotrenx",
+        "Gotronks"
+      ]
+    },
+    {
+      "question": "Por que Goku veio a Terra?",
+      "correct_answer": "Porque seu planeta foi destruído",
+      "incorrect_answers": [
+        "Pra destruir a Terra",
+        "Pra se misturar aos humanos e estudá-los",
+        "Porque seu planeta foi destruído",
+        "Pra conhecer mestre Kame"
+      ]
+    },
+    {
+      "question": "Como Goku conheceu a Titi?",
+      "correct_answer": "Ele a conheceu no torneio de artes marciais",
+      "incorrect_answers": [
+        "Ele a viu na rua e gostou dela",
+        "Ele a conheceu no rio",
+        "Ele mergulhou no rio e ela o salvou",
+        "Ele a conheceu no torneio de artes marciais"
+      ]
+	},
+    {
+      "question": "Qual o nome da fusão de Vegeta e Goku feita pelos brincos do Day-Kaiôshynn?",
+      "correct_answer": "Vegeto",
+      "incorrect_answers": [
+        "Vegeto",
+        "Gokuve",
+        "Vegano",
+        "Vekugo"
+      ]
+	},
+    {
+      "question": "Quem ensinou a Goku a técnica do Kamehamehá?",
+      "correct_answer": "Raditiz,Vegeta e Nappa,Dodória e Zabon,Tropas Ginil,Freeza,Dr. Gero,andróides 16,17 e 18, Cell, Majin-boo.",
+      "incorrect_answers": [
+        "Kami-samá",
+        "Mestre Karin",
+        "Tal pai-pai",
+        "Mestre Kame"
+      ]
+	},
+	{
+      "question": "Qual foi a ordem certa para enfrentar os GRANDES inimigos durante as sagas de Dragon ball Z?",
+      "correct_answer": "Sr. Kaioh",
+      "incorrect_answers": [
+        "Raditiz,Vegeta,Tropas Ginil,Cell,Freeza,Majin-boo,andróides 16,17 e 18,Dr. Gero.",
+        "Raditiz,Vegeta e Nappa,Tropas Ginil,Freeza,Dr. Gero,Andróides 16,17 e 18,Majin-boo.",
+        "Raditiz,Vegeta e Nappa,Dodória e Zabon,Tropas Ginil,Freeza,Dr. Gero,andróides 16,17 e 18, Cell, Majin-boo.",
+        "Vegeta, Raditiz,Picollo,Buma e Titi."
+      ]
+	},
+	{
+      "question": "Qual é o tamanho do ki de Goku durante a 1°a luta contra Vegeta?",
+      "correct_answer": "5000",
+      "incorrect_answers": [
+        "3000",
+        "5000",
+        "9000",
+        "1000"
+      ]
+	}
   ]
-}
+},
+{
+  "id": 2,
+  "category": "Dragon Ball",
+  "questions": [
+    {
+      "question": "Quais os principais ataques de Goku?",
+      "correct_answer": "Kamehameha e Genki Dama",
+      "incorrect_answers": [
+        "Masenko e Kamehameha",
+        "Kamehameha e Genki Dama",
+        "Genki Dama e Kaioken",
+        "Masenko E Kaioken"
+      ]
+    },
+    {
+      "question": "Quantos Episódios Tem Dragon Ball Z ?",
+      "correct_answer": "291",
+      "incorrect_answers": [
+        "319",
+        "158",
+        "291",
+        "287"
+      ]
+    },
+    {
+      "question": "Que Idade Tem Gohan Na Saga Boo?",
+      "correct_answer": "18",
+      "incorrect_answers": [
+        "18",
+        "17",
+        "16",
+        "20"
+      ]
+    },
+    {
+      "question": "Qual personagem que mais morre em Dragon Ball Z?",
+      "correct_answer": "Kuririn",
+      "incorrect_answers": [
+        "Goku",
+        "Kuririn",
+        "Vegeta",
+        "Piccolo"
+      ]
+    },
+    {
+      "question": "Qual o nome do Shen Long de Namek?",
+      "correct_answer": "Porunga",
+      "incorrect_answers": [
+        "Porunga",
+        "Dende",
+        "Nail",
+        "Piccolo"
+      ]
+    },
+    {
+      "question": "Qual foi o primeiro mestre de Gohan?",
+      "correct_answer": "Piccolo",
+      "incorrect_answers": [
+        "Goku",
+        "Chi-chi",
+        "Mestre Kame",
+        "Piccolo"
+      ]
+    },
+    {
+      "question": "Quem inventou o Genki dama?",
+      "correct_answer": "Sr. Kaioh",
+      "incorrect_answers": [
+        "Mestre Kame",
+        "Goku",
+        "Cell",
+        "Sr. Kaioh"
+      ]
+    },
+    {
+      "question": "Qual é o nome do pai de Goku?",
+      "correct_answer": "Bardock",
+      "incorrect_answers": [
+        "Bradock",
+        "Bardock",
+        "Brawly",
+        "Kukutu"
+      ]
+    },
+    {
+      "question": "Qual o nome da fusão entre goten e trunks?",
+      "correct_answer": "Gotrenx",
+      "incorrect_answers": [
+        "Trotenx",
+        "Trengo",
+        "Gotrenx",
+        "Gotronks"
+      ]
+    },
+    {
+      "question": "Por que Goku veio a Terra?",
+      "correct_answer": "Porque seu planeta foi destruído",
+      "incorrect_answers": [
+        "Pra destruir a Terra",
+        "Pra se misturar aos humanos e estudá-los",
+        "Porque seu planeta foi destruído",
+        "Pra conhecer mestre Kame"
+      ]
+    },
+    {
+      "question": "Como Goku conheceu a Titi?",
+      "correct_answer": "Ele a conheceu no torneio de artes marciais",
+      "incorrect_answers": [
+        "Ele a viu na rua e gostou dela",
+        "Ele a conheceu no rio",
+        "Ele mergulhou no rio e ela o salvou",
+        "Ele a conheceu no torneio de artes marciais"
+      ]
+	},
+    {
+      "question": "Qual o nome da fusão de Vegeta e Goku feita pelos brincos do Day-Kaiôshynn?",
+      "correct_answer": "Vegeto",
+      "incorrect_answers": [
+        "Vegeto",
+        "Gokuve",
+        "Vegano",
+        "Vekugo"
+      ]
+	},
+    {
+      "question": "Quem ensinou a Goku a técnica do Kamehamehá?",
+      "correct_answer": "Raditiz,Vegeta e Nappa,Dodória e Zabon,Tropas Ginil,Freeza,Dr. Gero,andróides 16,17 e 18, Cell, Majin-boo.",
+      "incorrect_answers": [
+        "Kami-samá",
+        "Mestre Karin",
+        "Tal pai-pai",
+        "Mestre Kame"
+      ]
+	},
+	{
+      "question": "Qual foi a ordem certa para enfrentar os GRANDES inimigos durante as sagas de Dragon ball Z?",
+      "correct_answer": "Sr. Kaioh",
+      "incorrect_answers": [
+        "Raditiz,Vegeta,Tropas Ginil,Cell,Freeza,Majin-boo,andróides 16,17 e 18,Dr. Gero.",
+        "Raditiz,Vegeta e Nappa,Tropas Ginil,Freeza,Dr. Gero,Andróides 16,17 e 18,Majin-boo.",
+        "Raditiz,Vegeta e Nappa,Dodória e Zabon,Tropas Ginil,Freeza,Dr. Gero,andróides 16,17 e 18, Cell, Majin-boo.",
+        "Vegeta, Raditiz,Picollo,Buma e Titi."
+      ]
+	},
+	{
+      "question": "Qual é o tamanho do ki de Goku durante a 1°a luta contra Vegeta?",
+      "correct_answer": "5000",
+      "incorrect_answers": [
+        "3000",
+        "5000",
+        "9000",
+        "1000"
+      ]
+	}
 ]
+}]
